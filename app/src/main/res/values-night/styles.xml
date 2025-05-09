@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="bottomNavIndicator" parent="@style/Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/NavBarDark</item>
+    </style>
+
+    <style name="CustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabBackground">@color/BackgroundDark</item>
+        <item name="tabSelectedTextColor">@color/GreenDark</item>
+        <item name="tabTextColor">@color/white</item>
+        <item name="tabIndicatorColor">@color/GreenDark</item>
+        <item name="tabMode">fixed</item>
+        <item name="tabGravity">fill</item>
+    </style>
+
+
+    <!-- Custom Toolbar Style -->
+    <style name="ThemeOverlay.MyPopupTheme" parent="Theme.AppCompat.Light">
+        <item name="android:colorBackground">@color/BackgroundDark</item>
+        <item name="android:textColor">@color/text_dark</item>
+    </style>
+
+</resources>

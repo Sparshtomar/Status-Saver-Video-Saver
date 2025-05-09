@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StatusSaverVideoDownload" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="backgroundColor">@color/BackgroundDark</item>
+        <item name="colorAccent">@color/GreenDark</item>
+        <item name="android:textColorPrimary">@color/TextPrimaryDark</item>
+        <item name="android:textColorSecondary">@color/TextSecondaryDark</item>
+        <item name="colorPrimary">@color/SearchBarDark</item>
+        <item name="colorSecondary">@color/NavBarDark</item>
+        <item name="iconColor">@color/TextPrimaryDark</item>
+        <item name="titleTextColor">@color/GreenDark</item>
+        <item name="android:statusBarColor">@color/BackgroundDark</item>
+        <item name="buttonStyle">@color/GreenDark</item>
+        <item name="editTextBackground">@color/edittextbackgroundDark</item>
+        <item name="iconTint">@color/iconDark</item>
+        <item name="textFillColor">@color/text_dark</item>
+
+    </style>
+</resources>

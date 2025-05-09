@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StatusSaverVideoDownload" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="backgroundColor">@color/BackgroundLight</item>
+        <item name="colorAccent">@color/GreenLight</item>
+        <item name="android:textColorPrimary">@color/TextPrimaryLight</item>
+        <item name="android:textColorSecondary">@color/TextSecondaryLight</item>
+        <item name="colorPrimary">@color/SearchBarLight</item>
+        <item name="colorSecondary">@color/NavBarLight</item>
+        <item name="iconColor">@color/TextPrimaryLight</item>
+        <item name="titleTextColor">@color/GreenLight</item>
+        <item name="buttonStyle">@color/GreenLight</item>
+        <item name="editTextBackground">@color/edittextbackgroundLight</item>
+        <item name="iconTint">@color/iconLight</item>
+        <item name="textFillColor">@color/text_light</item>
+    </style>
+
+    <style name="Theme.StatusSaverVideoDownload" parent="Base.Theme.StatusSaverVideoDownload" />
+</resources>

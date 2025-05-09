@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Light Theme Colors -->
+
+    <color name="BackgroundLight">#FFFFFFFF</color>
+    <color name="GreenLight">#FF4EAC62</color>
+    <color name="TextPrimaryLight">#FF121B22</color>
+    <color name="TextSecondaryLight">#FF556470</color>
+    <color name="SearchBarLight">#FFF7F5F3</color>
+    <color name="NavBarLight">#FFD0F2CB</color>
+    <color name="edittextbackgroundLight">#C4CBD0</color>
+    <color name="iconLight">#FF000000</color>
+    <color name="text_light">#000000</color>
+    <color name="ok_light">#000000</color>
+
+    <!-- Dark Theme Colors -->
+
+    <color name="BackgroundDark">#FF0B141B</color>
+    <color name="GreenDark">#FF58C163</color>
+    <color name="TextPrimaryDark">#FFFFFFFF</color>
+    <color name="TextSecondaryDark">#FF8496A0</color>
+    <color name="SearchBarDark">#FF242B31</color>
+    <color name="NavBarDark">#FF133629</color>
+    <color name="edittextbackgroundDark">#3B464F</color>
+    <color name="iconDark">#FFFFFFFF</color>
+    <color name="text_dark">#fff</color>
+    <color name="ok_dark">#fff</color>
+
+    <!-- Light Theme Button Colors -->
+    <color name="button_text_light">#000000</color> <!-- Black or any other color suitable for light background -->
+
+    <!-- Dark Theme Button Colors -->
+    <color name="button_text_dark">#FFFFFF</color> <!-- White or any other color suitable for dark background -->
+
+
+</resources>

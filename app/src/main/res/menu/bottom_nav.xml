@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/status"
+        android:title="Status"
+        android:icon="@drawable/icon_menu_status"/>
+
+    <item
+        android:id="@+id/statusB"
+        android:title="B Status"
+        android:icon="@drawable/icon_menu_status"/>
+
+    <item
+        android:id="@+id/downloads"
+        android:title="Downloads"
+        android:icon="@drawable/icon_menu_download"/>
+
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"
+        android:icon="@drawable/icon_menu_chat"/>
+
+</menu>
