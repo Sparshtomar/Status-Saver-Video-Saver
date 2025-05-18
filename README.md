@@ -20,7 +20,7 @@ Status Saver is a Kotlin-based Android application that allows users to save Wha
 
 ## 📊 Play Store Performance
 
-This app was also previously published on the Play Store and gained a large number of downloads before account termination. See below:
+This app was also previously published on the Play Store and gained a large number of downloads before the developer account faced some issues. See below:
 
 ![Downloads Screenshot](screenshots/status_saver_downloads.jpeg)
 
