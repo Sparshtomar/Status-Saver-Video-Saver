@@ -20,7 +20,7 @@ Status Saver is a Kotlin-based Android application that allows users to save Wha
 
 ## 📱 Screenshots
 
-(screenshots/status_saver_screenshots.png)
+![App Screenshot](screenshots/status_saver_screenshots.png)
 
 ## 📊 Play Store Performance
 
